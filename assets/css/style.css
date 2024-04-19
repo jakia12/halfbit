@@ -971,8 +971,9 @@ hr {
 
 .cs-accent_btn {
   color: #000 !important;
-  background: linear-gradient(108.18deg, #14e5fc -12.02%, #4ac38d 60%);
-  border-color: #009688;
+  background-color: #f7931b;
+  /* background: linear-gradient(108.18deg, #14e5fc -12.02%, #4ac38d 60%); */
+  /* border-color: #009688; */
 }
 
 .cs-accent_btn:hover {
@@ -3964,11 +3965,11 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 /********modified css********/
 .cs-accent_btn {
-  background-image: linear-gradient(108.18deg, #00a5ff -12.02%, #00a5ff 60%);
+  /* background-image: linear-gradient(108.18deg, #f7931b -12.02%, #f7931b60%); */
 }
 
 .cs-gradient_color {
-  background: linear-gradient(108.18deg, #00a5ff -12.02%, #00a5ff 60%);
+  /* background: linear-gradient(108.18deg, #f7931b -12.02%, #f7931b60%); */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
